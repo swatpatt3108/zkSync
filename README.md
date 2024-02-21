@@ -1,3 +1,7 @@
-Make daily, weekly, monthly trxns on zkync 
+Make daily, weekly, monthly trxns on zkync
+
 Utilize different protocols
+
 Check stats on wenser.xyz
+
+Create NFTs/ Mint NFTs
