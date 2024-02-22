@@ -5,3 +5,5 @@ Utilize different protocols
 Check stats on wenser.xyz
 
 Create NFTs/ Mint NFTs
+
+Provide liqudity on Syncswap
