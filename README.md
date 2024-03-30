@@ -9,3 +9,5 @@ Create NFTs/ Mint NFTs
 Provide liqudity on Syncswap
 
 Lend and borrow on zerolend
+
+Swap on maverick.xyz
